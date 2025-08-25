@@ -1,18 +1,18 @@
 ![Header](./img/header.png)
 
-<img align="left" height="120" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd203Z2s5YzFlZGUydXZ4eGV2dm43dDFmb3ZzbWpra3c4cWs1MTAzOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TyCVCdmXJHnK3yHjqy/giphy.gif"  />
+<img align="right" height="120" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd203Z2s5YzFlZGUydXZ4eGV2dm43dDFmb3ZzbWpra3c4cWs1MTAzOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TyCVCdmXJHnK3yHjqy/giphy.gif"  />
 
 ###
 
-<p align="left">💻 Junior Front-End Developer | 🌱 Laravel Enthusiast</p>
-
-###
-
-<img align="right" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzJjYThpY2Rmc3A1bWlhZWgzOHYycGcyc2l0M3RhYTJ3bHR3bnlxaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4TmxH7ZMn1aYE/giphy.gif"  />
+<h3 align="left">💻 Junior Front-End Developer | 🌱 Laravel Enthusiast</h3>
 
 ###
 
 <h2 align="left">👨‍💻 About Me</h2>
+
+###
+
+<img align="right" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzJjYThpY2Rmc3A1bWlhZWgzOHYycGcyc2l0M3RhYTJ3bHR3bnlxaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4TmxH7ZMn1aYE/giphy.gif"  />
 
 ###
 
@@ -32,7 +32,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
